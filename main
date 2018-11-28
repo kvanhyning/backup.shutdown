@@ -1,0 +1,3 @@
+##WIP. Shutdown script. It detects when your computer switches to the uninterruptible power supply and safely powers down the machine. 
+# If Manjaro, use mhwd to detect hardware. Also, SCPI? 
+# shutdown +5 "UPS power detected. Shutting down in five." 
